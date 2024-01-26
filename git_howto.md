@@ -14,10 +14,11 @@ Git Status
 ```sh
 git add
 ```
-
+*Создание коммита*
 ```sh
-git commit - "Massage"
+git commit -m"Massage"
 ```
+
 ```sh
 git log
 ```
