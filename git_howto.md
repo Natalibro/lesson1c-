@@ -22,10 +22,11 @@ git commit -m"Massage"
 ```sh
 git log
 ```
-
+*Выводит короткий хэш*
 ```sh
 git log --oneline
 ```
+
 ```sh
 git checkout
 ```
