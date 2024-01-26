@@ -10,10 +10,11 @@ git init
 ```sh
 Git Status
 ```
-
+*Добавление файлов к следующему коммиту*
 ```sh
 git add
 ```
+
 ```sh
 git commit - "Massage"
 ```
