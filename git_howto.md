@@ -26,7 +26,7 @@ git log
 ```sh
 git log --oneline
 ```
-
+*Переход от одного коммита к другому*
 ```sh
 git checkout
 ```
