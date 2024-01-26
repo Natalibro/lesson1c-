@@ -18,10 +18,11 @@ git add
 ```sh
 git commit -m"Massage"
 ```
-
+*Ввод на экран истории всех коммитов с их хэштегами*
 ```sh
 git log
 ```
+
 ```sh
 git log --oneline
 ```
