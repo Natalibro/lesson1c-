@@ -49,3 +49,8 @@ git branch
 ```sh
 git branch <Имя_ветки>
 ```
+Выводит короткий код с графами
+```sh
+git log --oneline --graph
+```
+
