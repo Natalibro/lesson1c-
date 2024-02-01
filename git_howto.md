@@ -45,3 +45,7 @@ Git diff
 ```sh
 git branch
 ```
+Создание новой ветки 
+```sh
+git branch <Имя_ветки>
+```
