@@ -16,7 +16,7 @@ git add
 ```
 *Создание коммита*
 ```sh
-git commit -m"Massage"
+git commit -m"Massage" Текст
 ```
 *Ввод на экран истории всех коммитов с их хэштегами*
 ```sh
