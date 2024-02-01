@@ -38,6 +38,7 @@ git checkout master
 ```sh
 Git diff
 ```
+Отображение всех веток
 ```sh
 git branch
 ```
