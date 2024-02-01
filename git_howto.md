@@ -38,3 +38,6 @@ git checkout master
 ```sh
 Git diff
 ```
+```sh
+git branch
+```
