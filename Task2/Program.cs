@@ -10,6 +10,7 @@ Console.WriteLine(sum2);
 double d1 = 5.5;
 double sum3 = d1 + i1;
 
+
 int product1 = i1 * i2;
 long product2 = l1 * i1;
 double product3 = i1 * d1;
@@ -23,5 +24,12 @@ Console.WriteLine(quotient);
 d1 = 6;
 double quotient2 = i1 / d1;
 Console.WriteLine(quotient2);
+
+int a = 5;
+int b = 7;
+int c = 9;
+int d = 4;
+double quotient5 = (a * b) /(c + d) ;
+Console.WriteLine(quotient5);
 
 
