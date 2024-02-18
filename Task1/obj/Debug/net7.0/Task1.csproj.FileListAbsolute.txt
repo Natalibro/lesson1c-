@@ -1,0 +1,14 @@
+C:\Users\brodk\OneDrive\Рабочий стол\контроль версий\lesson01\Task1\bin\Debug\net7.0\Task1.exe
+C:\Users\brodk\OneDrive\Рабочий стол\контроль версий\lesson01\Task1\bin\Debug\net7.0\Task1.deps.json
+C:\Users\brodk\OneDrive\Рабочий стол\контроль версий\lesson01\Task1\bin\Debug\net7.0\Task1.runtimeconfig.json
+C:\Users\brodk\OneDrive\Рабочий стол\контроль версий\lesson01\Task1\bin\Debug\net7.0\Task1.dll
+C:\Users\brodk\OneDrive\Рабочий стол\контроль версий\lesson01\Task1\bin\Debug\net7.0\Task1.pdb
+C:\Users\brodk\OneDrive\Рабочий стол\контроль версий\lesson01\Task1\obj\Debug\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brodk\OneDrive\Рабочий стол\контроль версий\lesson01\Task1\obj\Debug\net7.0\Task1.AssemblyInfoInputs.cache
+C:\Users\brodk\OneDrive\Рабочий стол\контроль версий\lesson01\Task1\obj\Debug\net7.0\Task1.AssemblyInfo.cs
+C:\Users\brodk\OneDrive\Рабочий стол\контроль версий\lesson01\Task1\obj\Debug\net7.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\brodk\OneDrive\Рабочий стол\контроль версий\lesson01\Task1\obj\Debug\net7.0\Task1.dll
+C:\Users\brodk\OneDrive\Рабочий стол\контроль версий\lesson01\Task1\obj\Debug\net7.0\refint\Task1.dll
+C:\Users\brodk\OneDrive\Рабочий стол\контроль версий\lesson01\Task1\obj\Debug\net7.0\Task1.pdb
+C:\Users\brodk\OneDrive\Рабочий стол\контроль версий\lesson01\Task1\obj\Debug\net7.0\Task1.genruntimeconfig.cache
+C:\Users\brodk\OneDrive\Рабочий стол\контроль версий\lesson01\Task1\obj\Debug\net7.0\ref\Task1.dll
